@@ -1,7 +1,0 @@
-# Plantilla de configuración - Renombra a config.py y coloca tus credenciales reales
-
-GROQ_API_KEY = "tu_api_key_de_groq_aqui"
-DEEPSEEK_API_KEY = "tu_api_key_de_deepseek_aqui"
-
-MODELO_REDACCION = "deepseek-chat" # o el modelo que utilices
-OUTPUT_DIR = "output"
