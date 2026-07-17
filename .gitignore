@@ -1,0 +1,30 @@
+# --- Credenciales y Configuración ---
+config.py
+.env
+*.env
+
+# --- Entornos Virtuales ---
+venv/
+.venv/
+env/
+
+# --- Archivos de Prueba y Multimedia (Evitar sobrecargar el repo) ---
+*.jpeg
+*.jpg
+*.png
+*.ogg
+*.wav
+*.mp3
+
+# --- Salidas del Pipeline ---
+output/
+*.tex
+*.pdf
+
+# --- Caché de Python ---
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# --- Carpetas de Trabajo y Pruebas ---
+Laboratorio/
